@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![](https://github.com/HuyWebSmith/CampusProject/blob/main/img/4_QFWJ.jpg)
 
 <!-- visitor -->
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=HuyWebSmith.visitor-badge&left_color=red&right_color=green) 
+<img align="right" src="![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=HuyWebSmith.visitor-badge&left_color=red&right_color=green" alt="">
 
 <!-- Hi! -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+%23HuyWebSmith+%F0%9F%8C%87%F0%9F%8C%83%F0%9F%92%BB" alt="Typing SVG" /></a>
