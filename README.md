@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![thẻ alt của ảnh]([đường dẫn ảnh](https://image.tienphong.vn/w890/Uploaded/2024/pcgycivo/2014_02_18/4_QFWJ.jpg))
+![](C:\Users\nquan\Desktop\HTML,CSS,JS\img)
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+%23HuyWebSmith+%F0%9F%8C%87%F0%9F%8C%83%F0%9F%92%BB" alt="Typing SVG" /></a>
