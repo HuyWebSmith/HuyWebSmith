@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](C:\Users\nquan\Desktop\HTML,CSS,JS\img)
+![](https://github.com/HuyWebSmith/CampusProject/blob/main/img/4_QFWJ.jpg)
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+%23HuyWebSmith+%F0%9F%8C%87%F0%9F%8C%83%F0%9F%92%BB" alt="Typing SVG" /></a>
