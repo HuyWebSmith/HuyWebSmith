@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HuyWebSmith.visitor-badge&left_color=red&right_color=green" >
 
 <!-- Hi! -->
-<a align="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code+&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+HuyWebSmith+%F0%9F%92%BB%F0%9F%92%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code+&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+HuyWebSmith+%F0%9F%92%BB%F0%9F%92%95" alt="Typing SVG" /></a>
 
 
 
