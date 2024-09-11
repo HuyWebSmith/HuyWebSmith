@@ -1,5 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+%23HuyWebSmith+%F0%9F%8C%87%F0%9F%8C%83%F0%9F%92%BB" alt="Typing SVG" /></a>
-
 <!--
 **HuyWebSmith/HuyWebSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2F%25C4%2590%25C3%25AAm_%25C4%2591%25E1%25BA%25A7y_sao&psig=AOvVaw0JikXOmIR8zEhUbqDO1ZRK&ust=1726163804937000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC9ubS7u4gDFQAAAAAdAAAAABAE" alt="">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+%23HuyWebSmith+%F0%9F%8C%87%F0%9F%8C%83%F0%9F%92%BB" alt="Typing SVG" /></a>
+
