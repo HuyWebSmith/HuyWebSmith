@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- visitor -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HuyWebSmith.visitor-badge&left_color=red&right_color=green" >
 
+<!-- The Starry Night painting by the Dutch Post-Impressionist painter Vincent van Gogh -->
 ![](https://github.com/HuyWebSmith/CampusProject/blob/main/img/4_QFWJ.jpg)
 
 
