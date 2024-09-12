@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 <!-- The Starry Night painting by the Dutch Post-Impressionist painter Vincent van Gogh -->
 ![](https://github.com/HuyWebSmith/CampusProject/blob/main/img/4_QFWJ.jpg)
-
-
-https://github.com/user-attachments/assets/481fdf95-0701-4621-88be-0ec8b053f009
+![giphy](https://github.com/user-attachments/assets/c453a080-74e5-493f-9388-1cef2dddb49e)
 
 
 <!-- Hi! -->
