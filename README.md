@@ -1,4 +1,5 @@
-# HuyWebSmith 👨‍🎓
+# HuyWebSmith ![MuaKissGIF](https://github.com/user-attachments/assets/6e945098-ea19-4f00-b0a0-4ca18cd56e94)
+
 <!--
 **HuyWebSmith/HuyWebSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
