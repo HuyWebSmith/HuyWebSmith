@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- Hi! -->
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code+&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+HuyWebSmith+%F0%9F%92%BB%F0%9F%92%95" alt="Typing SVG" /></a>
 
-<h3 align="left">A passionate frontend developer from VietNam</h3>
+<h3 align="left">A passionate Web developer from VietNam</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
