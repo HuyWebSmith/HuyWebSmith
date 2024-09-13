@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HuyWebSmith.visitor-badge&left_color=red&right_color=green" >
 
 <!-- The Starry Night painting by the Dutch Post-Impressionist painter Vincent van Gogh -->
-![](https://github.com/HuyWebSmith/Campust_Projects/blob/main/img/4_QFWJ.jpg)
+![](https://github.com/HuyWebSmith/HuyWebSmith/issues/3#issue-2524204407)
 
 <!-- Hi! -->
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code+&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi!+I'm+HuyWebSmith+%F0%9F%92%BB%F0%9F%92%95" alt="Typing SVG" /></a>
